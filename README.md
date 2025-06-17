@@ -6,3 +6,4 @@
 - [TP3 - README.md](./TP3/README.md)
 - [TP4 - README.md](./TP4/README.md)
 - [TP5 - README.md](./TP5/README.md)
+- [TP6 - README.md](./TP6/README.md)
